@@ -1,8 +1,8 @@
 HDV IA 2
-Contributors: Anjali Shukla - 16010120107
-              Swarangi Kule - 16010120098
- Topic: Latest Covid 19 India's Status
- College: K.J. Somaiya College of Engineering 
+Contributors: Anjali Shukla - 16010120107;
+              Swarangi Kule - 16010120098;
+ Topic: Latest Covid 19 India's Status;
+ College: K.J. Somaiya College of Engineering. 
 
 ![1](https://user-images.githubusercontent.com/95490697/144636777-4902325f-3f4a-4067-bb86-4b3931ca0bb9.png)
 ![2](https://user-images.githubusercontent.com/95490697/144636786-d6d6c209-9510-418a-9092-535b06d56fec.png)
